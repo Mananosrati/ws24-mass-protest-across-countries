@@ -1,0 +1,24 @@
+.background {
+  background-image: url('../public/contact.jpg');
+  background-size: cover; 
+  background-position: center; 
+}
+
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  z-index: 1; 
+  height: 350px;
+  width: 350px;
+}
+
+.carousel {
+  position: relative;
+}
+
+.carousel-image {
+  height: 80vh;
+  background-size: cover; 
+  background-position: center;
+}
